@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestSundevs</string>
+    <string name="comic_book_label">ComicBook</string>
+    <string name="characters_label">Characters</string>
+    <string name="teams_labels">Teams</string>
+    <string name="locations_label">Locations</string>
+    <string name="concepts_label">Concepts</string>
+    <string name="login_label">Ingresar</string>
+    <string name="info_login_label">Test Tech</string>
+    <string name="name_login_label">Comic Book Application</string>
+    <string name="myname_label">Lis Dayanara Rojas Guzmán</string>
+    <string name="realized_label">Realizado por:</string>
+    <string name="latest_issues_label">Latest Issues</string>
+</resources>
